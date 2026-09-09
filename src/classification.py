@@ -1,4 +1,4 @@
-from image_patch import ImagePatch
+from src.image_patch import ImagePatch
 
 
 def classify_unlabeled_patches(patches_list : list[ImagePatch]):
